@@ -10,3 +10,7 @@ pickle/
 
 # presentation
 *.key
+
+# keras models
+*.h5
+
