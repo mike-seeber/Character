@@ -1,0 +1,12 @@
+# iPython Notebook Checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Cache
+__pycache__/
+
+# pickle
+pickle/
+
+# presentation
+*.key
